@@ -1,0 +1,51 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    background-color: #F1F6F9;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5rem;
+    padding-top: 3rem;
+}
+
+h3 {
+    text-align: center;
+    font-weight: bold;
+    margin: 1rem;
+}
+
+.box {
+    width: 30%;
+    margin: 3rem 1rem;
+    display: inline-block;
+}
+
+.box i {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+}
+
+.icon {
+    border: 1px solid;
+    color: black;
+    width: 12%;
+    height: 50;
+    border-radius: 100%;
+    background-color: blue;
+    margin: auto;
+}
+
+.box p {
+    text-align: center;
+    padding: 0 5rem;
+}
